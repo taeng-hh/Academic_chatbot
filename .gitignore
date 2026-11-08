@@ -1,0 +1,60 @@
+# Local environments and Python caches
+.venv/
+venv/
+env/
+.conda/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.ipynb_checkpoints/
+
+# Secrets (keep only safe configuration templates)
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.streamlit/secrets.*.toml
+.aws/
+*.pem
+*.key
+
+# Uploaded exam/student data and generated files
+/tests/data/
+/data/
+/uploads/
+/output/
+/tmp/
+/temp/
+/*.pdf
+/*.xlsx
+/*.xls
+/*.csv
+/*.zip
+
+# Test/build outputs
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+test-results/
+build/
+dist/
+*.egg-info/
+
+# Machine/editor/agent files
+.vscode/
+.idea/
+.codex/
+.agents/
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
