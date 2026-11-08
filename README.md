@@ -6,7 +6,7 @@
 
 - 학번: 202432871
 - 이름: 함태은
-- 배포 URL: `https://본인앱.streamlit.app`
+- 배포 URL: https://myacademicchatbot1.streamlit.app/
 - 안내문에 적힌 11월 11일 23:59 서비스 유지 조건 확인
 
 ## Windows VS Code · Git Bash 실행
