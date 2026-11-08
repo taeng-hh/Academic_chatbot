@@ -4,10 +4,9 @@
 
 ## 반드시 수정할 제출 정보
 
-- 학번: `학번 입력`
-- 이름: `이름 입력`
+- 학번: 202432871
+- 이름: 함태은
 - 배포 URL: `https://본인앱.streamlit.app`
-- GitHub Collaborator: `jaypakdevkr` 초대
 - 안내문에 적힌 11월 11일 23:59 서비스 유지 조건 확인
 
 ## Windows VS Code · Git Bash 실행
